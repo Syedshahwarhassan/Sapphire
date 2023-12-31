@@ -1,0 +1,25 @@
+/* .trendbtn{
+    border-radius: 70%;
+background-color: black;
+color: white;
+} */
+.divs{
+    width: 24%;
+    
+    margin-top: 30px;
+}
+.divs h5{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.divs h6{
+    margin-left: 50px;
+    color: gray;
+    cursor: pointer;
+}
+.icon i{
+    padding-top: 20px;
+}
+.icon i:hover{
+    padding-top: 5px;
+}
